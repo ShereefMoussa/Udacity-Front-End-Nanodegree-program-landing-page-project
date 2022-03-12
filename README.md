@@ -2,7 +2,7 @@
 
 The project is about building a landing page based on the Udacity Front End Nanodegree program.
 
-to see the final result: https://udacity-front-end-nanodegree-program-landing-page-project.pages.dev
+Check out the final website [here](https://udacity-front-end-nanodegree-program-landing-page-project.pages.dev/)!
 
 ## The Goal of the project:
 
